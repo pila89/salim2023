@@ -11,7 +11,7 @@ public  interface UserInterface {
 
         public User getUserById(Integer id);
 
-        public String deleteUserById(Integer id);
+        public void deleteUserById(Integer id);
 
         public User updateUser(User user);
 

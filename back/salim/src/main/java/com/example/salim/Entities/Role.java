@@ -19,8 +19,8 @@ public class Role implements Serializable {
    @GeneratedValue(strategy = GenerationType.IDENTITY)
 
 private Integer id;
-   private String name;
-    /*@Enumerated(EnumType.STRING)
-    private Roles role;*/
+
+    @Enumerated(EnumType.STRING)
+    private Roles role;
 
 }

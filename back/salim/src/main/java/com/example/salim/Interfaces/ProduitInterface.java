@@ -11,7 +11,7 @@ public interface ProduitInterface {
 
     public Produit addProduit(Produit produit) ;
 
-    public void addProduitToFournisseur(Produit produit, Integer idFournisseur);
+    public Produit addProduitToFournisseur(Produit produit, Integer idFournisseur);
     public List<Produit> getAllProduits();
 
     public  Produit getProduitById(Integer id);

@@ -4,7 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="534ff07b-2bba-4a1a-9ac6-a66cb7f5760d" name="Changes" comment="" />
+    <list default="true" id="534ff07b-2bba-4a1a-9ac6-a66cb7f5760d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Config/SimpleCORSFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Config/SimpleCORSFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Controllers/FournisseurController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Controllers/FournisseurController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Controllers/ProduitController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Controllers/ProduitController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Entities/Produit.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Entities/Produit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Entities/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Entities/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Interfaces/ProduitInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Interfaces/ProduitInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Interfaces/UserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/Interfaces/UserInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/ServicesImplement/ProduitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/ServicesImplement/ProduitService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/ServicesImplement/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/salim/src/main/java/com/example/salim/ServicesImplement/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/proxy.conf.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/proxy.conf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/add-edit-agent/add-edit-agent.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/add-edit-agent/add-edit-agent.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/add-edit-agent/add-edit-agent.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/add-edit-agent/add-edit-agent.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/admin-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/admin-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/admin.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/admin.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/list-agent/list-agent.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/list-agent/list-agent.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/list-agent/list-agent.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/list-agent/list-agent.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/list-fournisseur/list-fournisseur.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/list-fournisseur/list-fournisseur.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/list-fournisseur/list-fournisseur.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/list-fournisseur/list-fournisseur.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/list-produit/list-produit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/admin/list-produit/list-produit.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/shared/services/fournisseur.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/shared/services/fournisseur.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/shared/services/produit.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/shared/services/produit.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/shared/services/user.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/shared/services/user.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/super-admin/add-edit-user/add-edit-user.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/super-admin/add-edit-user/add-edit-user.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/super-admin/add-edit-user/add-edit-user.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/super-admin/add-edit-user/add-edit-user.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/super-admin/add-edit-user/add-edit-user.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/super-admin/add-edit-user/add-edit-user.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/super-admin/list-user/list-user.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/super-admin/list-user/list-user.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/super-admin/list-user/list-user.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/super-admin/list-user/list-user.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/gestion_stock/src/app/super-admin/super-admin.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/gestion_stock/src/app/super-admin/super-admin.module.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +51,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/front" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -103,11 +140,22 @@
       <workItem from="1679237441325" duration="118000" />
       <workItem from="1679237606532" duration="26718000" />
       <workItem from="1679271616504" duration="55000" />
-      <workItem from="1679273413170" duration="8757000" />
+      <workItem from="1679273413170" duration="19292000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

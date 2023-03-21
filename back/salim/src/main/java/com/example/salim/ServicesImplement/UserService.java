@@ -33,9 +33,9 @@ public class UserService implements UserInterface {
     }
 
     @Override
-    public String deleteUserById(Integer id) {
+    public void deleteUserById(Integer id) {
         userRepositorie.deleteById(id);
-        return "ok";
+
     }
 
     @Override

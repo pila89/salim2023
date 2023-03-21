@@ -51,10 +51,12 @@ public class ProduitService implements ProduitInterface {
     }
 
     @Override
-    public void addProduitToFournisseur(Produit produit, Integer idFournisseur) {
-       /* produitRepositorie.save(produit);
+    public Produit addProduitToFournisseur(Produit produit, Integer idFournisseur) {
+       produitRepositorie.save(produit);
         Fournisseur foundedFournisseur = fournisseurService.getFournisseurById(idFournisseur);
         foundedFournisseur.getProduits().add(produit);
-        fournisseurRepositorie.save(foundedFournisseur);*/
+        fournisseurRepositorie.save(foundedFournisseur);
+
+        return produit;
     }
 }

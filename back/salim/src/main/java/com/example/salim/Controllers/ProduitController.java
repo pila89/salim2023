@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 import java.util.Optional;
-
+@CrossOrigin(origins = "http://localhost:4200/",exposedHeaders="Access-Control-Allow-Origin" )
 @RestController
 @RequestMapping("/produits")
 public class ProduitController {
@@ -35,7 +35,8 @@ public class ProduitController {
             return produitService.updateProduit(produit);
         }
     @PostMapping("/addProduitToFournisseur/{id}")
-    public void addProduitToFournisseur(@RequestBody Produit produit ,@PathVariable Integer id){
-        produitService.addProduitToFournisseur(produit,id);
+    public Produit addProduitToFournisseur(@RequestBody Produit produit ,@PathVariable Integer id){
+        return produitService.addProduitToFournisseur(produit,id);
+
     }
 }

@@ -34,7 +34,7 @@ public class Produit implements Serializable {
 
     private Integer quantiteSotock;
 
-    private Integer PrixPromotion;
+    private Integer prixPromotion;
 
     private String dateExpiration;
 
